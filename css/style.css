@@ -10402,3 +10402,7 @@ body {
 #currently {
   margin-top: 40px;
 }
+.button {
+  display: flex;
+  flex-direction: row;
+}
